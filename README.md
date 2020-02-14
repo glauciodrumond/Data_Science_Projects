@@ -12,6 +12,7 @@ As a Data Scientist  I combine analytical skills, ability to work in team enviro
 I have been in the military for about six years with a background of hard working and dedication to achieving my goals. I am in the fifth period of the Bachelor's Degree in Information Systems with the expectation of finishing my degree in 2021. 
 
 **Background in:** Python
+
 **Background in:** Military trainning
 
 **Links:**
