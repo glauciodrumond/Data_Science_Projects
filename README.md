@@ -5,7 +5,7 @@
 </p>
 
 # Glaucio Drumond
-<sub>*Data Scientist Student* </sub>
+<sub>*Data Scientist* </sub>
 
 As a Data Scientist  I combine analytical skills, ability to work in team environments, and attention to details. I've been studying the data science field the last six months taking a lots of courses trying to develop a critical thinking and problem-solving skills.
 
