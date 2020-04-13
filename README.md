@@ -16,7 +16,8 @@ I have been in the military for about six years with a background of hard workin
 **Background in:** Military trainning
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/glaucio-drumond-1734a018b/)
+* [**LinkedIn**](https://www.linkedin.com/in/glaucio-drumond-1734a018b/)
+* [**Medium**](https://medium.com/@glauciotad)
 
 
 ## Projetos:
