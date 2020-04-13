@@ -20,9 +20,9 @@ I have been in the military for about six years with a background of hard workin
 * [**Medium**](https://medium.com/@glauciotad)
 
 
-## Projetos:
+## Projects:
 
-* [**Cardiovascular Disease ML Project**](https://bit.ly/39hVEMp)
+* [**Cardiovascular Disease ML**](https://bit.ly/39hVEMp)
 * [**Airbnb Data Analysis Hawaii**](http://bit.ly/3bv5v3P)
 
----
+
