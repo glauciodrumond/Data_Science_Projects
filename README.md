@@ -24,5 +24,5 @@ I have been in the military for about six years with a background of hard workin
 
 * [**Cardiovascular Disease ML**](https://bit.ly/39hVEMp)
 * [**Airbnb Data Analysis Hawaii**](http://bit.ly/3bv5v3P)
-
+* [**Credit Card Fraud Detection**](https://bit.ly/3ajv4TF)
 
