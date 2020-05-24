@@ -11,9 +11,9 @@ As a Data Scientist  I combine analytical skills, ability to work in team enviro
 
 I have been in the military for about six years with a background of hard working and dedication to achieving my goals. I am in the fifth period of the Bachelor's Degree in Information Systems with the expectation of finishing my degree in 2021. 
 
-**Background in:** Python
-
-**Background in:** Military trainning
+**Background in:** 
+* Python
+* Military trainning
 
 **Links:**
 * [**LinkedIn**](https://www.linkedin.com/in/glaucio-drumond-1734a018b/)
@@ -22,6 +22,7 @@ I have been in the military for about six years with a background of hard workin
 
 ## Projects:
 
+* [**Credit Risk Assessment**](https://bit.ly/36sBhwj)
 * [**Cardiovascular Disease ML**](https://bit.ly/39hVEMp)
 * [**Airbnb Data Analysis Hawaii**](http://bit.ly/3bv5v3P)
 * [**Credit Card Fraud Detection**](https://bit.ly/3ajv4TF)
