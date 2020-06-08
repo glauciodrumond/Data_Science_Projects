@@ -22,6 +22,7 @@ I have been in the military for about six years with a background of hard workin
 
 ## Projects:
 
+* [**Shelter Animal Outcome**](https://bit.ly/2UmzROK)
 * [**Credit Risk Assessment**](https://bit.ly/36sBhwj)
 * [**Cardiovascular Disease ML**](https://bit.ly/39hVEMp)
 * [**Airbnb Data Analysis Hawaii**](http://bit.ly/3bv5v3P)
