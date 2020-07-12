@@ -28,3 +28,9 @@ I have been in the military for about six years with a background of hard work a
 * [**Airbnb Data Analysis Hawaii**](http://bit.ly/3bv5v3P)
 * [**Credit Card Fraud Detection**](https://bit.ly/3ajv4TF)
 
+## Aplications deployed
+
+* [**Surviving a disaster**](https://surviving-disaster.herokuapp.com/)
+* [**Airbnb data analysis**]((https://airbnb-data-analysis.herokuapp.com/)
+
+
