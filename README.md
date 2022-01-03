@@ -7,16 +7,16 @@
 # Glaucio Drumond
 <sub>*Data Scientist* </sub>
 
-As a Data Scientist, I combine analytical skills, the ability to work in team environments, and attention to detail. I've been studying the data science field for the last six months taking lots of courses trying to develop critical thinking and problem-solving skills.
+As a Data Scientist, I combine analytical skills, the ability to work in team environments, and attention to detail. I've been studying the data science field for the last 12 months taking lots of courses trying to develop critical thinking and problem-solving skills.
 
-I have been in the military for about six years with a background of hard work and dedication to achieving my goals. I am in the fifth period of the Bachelor's Degree in Information Systems with the expectation of finishing my degree in 2021.
+I have been in the military for about 8 years with a background of hard work and dedication to achieving my goals. I am in the seventh period of the Bachelor's Degree in Information Systems with the expectation of finishing my degree in 2022.
 
 **Background in:** 
 * Python
 * Military trainning
 
 **Links:**
-* [**LinkedIn**](https://www.linkedin.com/in/glaucio-drumond-1734a018b/)
+* [**LinkedIn**](https://www.linkedin.com/in/glauciodrumond)
 * [**Medium**](https://medium.com/@glauciotad)
 
 
